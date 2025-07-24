@@ -1,0 +1,31 @@
+product_name,category,timestamp,quantity
+person,Personal Care,2025-07-14 13:37:42.171405,1
+person,Personal Care,2025-07-14 13:37:55.798868,1
+cell phone,Electronics,2025-07-14 13:37:55.799985,1
+person,Personal Care,2025-07-14 13:38:57.830751,1
+toothbrush,Personal Care,2025-07-14 13:38:57.832090,1
+person,Human,2025-07-14 13:40:02.012136,1
+person,Human,2025-07-14 13:40:24.035748,1
+book,Stationery,2025-07-14 13:41:09.369222,1
+person,Human,2025-07-14 13:41:09.370921,1
+person,Human,2025-07-14 13:41:36.289887,1
+sports ball,Uncategorized,2025-07-14 13:41:36.291941,1
+person,Human,2025-07-14 13:42:01.065742,1
+person,Human,2025-07-14 13:42:01.066771,1
+person,Human,2025-07-14 13:42:22.758703,1
+bottle,Beverages,2025-07-14 13:42:22.760067,1
+person,Human,2025-07-14 13:43:03.133131,1
+person,Human,2025-07-14 15:51:41.319817,1
+person,Human,2025-07-14 15:52:21.002298,1
+laptop,Electronics,2025-07-14 15:52:21.003824,1
+book,Stationery,2025-07-14 15:52:21.005639,1
+cell phone,Electronics,2025-07-14 15:52:38.073168,1
+person,Human,2025-07-14 15:53:01.643576,1
+person,Human,2025-07-14 15:53:01.645712,1
+bottle,Beverages,2025-07-14 15:53:01.648010,1
+person,Human,2025-07-14 16:00:34.605307,1
+cell phone,Electronics,2025-07-14 16:01:03.169989,1
+book,Stationery,2025-07-14 16:01:41.734682,1
+person,Human,2025-07-14 16:02:07.621722,1
+bottle,Beverages,2025-07-14 16:02:07.623683,1
+cell phone,Electronics,2025-07-14 16:02:07.625851,1
